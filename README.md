@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code and associated materials for the project titled "AquaNetFusion-LL." The main goal of this research is the visual enhancement of low-light underwater images.
+This repository contains the source code and associated materials for the project titled "AquaNetFusion-LL." The aim of this research is the visual enhancement of low-light underwater images.
 
 ## Project Status
 
